@@ -1,5 +1,3 @@
-import React from "react";
-
 const getColor = (count) => {
   if (count > 1000) return "bg-red-500";
   if (count > 500) return "bg-orange-400";

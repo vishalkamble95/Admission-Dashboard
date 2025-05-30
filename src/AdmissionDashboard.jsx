@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useMemo } from "react";
+import { useEffect, useState, useMemo } from "react";
 import StatusCard from "./components/StatusCard";
 import ApplicationBarChart from "./components/ApplicationBarChart";
 import TrendLineChart from "./components/TrendLineChart";

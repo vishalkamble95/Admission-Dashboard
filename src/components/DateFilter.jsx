@@ -1,5 +1,3 @@
-import React from "react";
-
 const DateFilter = ({ fromDate, toDate, onFromDateChange, onToDateChange }) => (
   <div className="flex flex-col sm:flex-row gap-2 items-center">
     <label className="text-sm">
